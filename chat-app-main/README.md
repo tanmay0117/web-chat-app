@@ -1,11 +1,20 @@
 
 # MERN Stack - Chat Application
+
+###Team mates 
+- Tanmay Navandar
+- Atharva Tarlekar
+- Harsh Gawli
+- Chaitali Chaudhari
   
 Webapp is live [here](http://yml-chat-app.herokuapp.com/)
 
 #### Technologies Stack
 - MERN
-- ReacJS
+- html
+- css
+- javascript
+- bootstrap
 - NodeJS
 - ExpressJS
 - MongoDB
