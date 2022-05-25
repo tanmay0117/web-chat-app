@@ -1,5 +1,5 @@
 
-# MERN Stack - Chat Application
+# Web - Chat Application
 
 ### Team mates 
 - Tanmay Navandar
@@ -10,7 +10,6 @@
 Webapp is live [here](http://yml-chat-app.herokuapp.com/)
 
 #### Technologies Stack
-- MERN
 - html
 - css
 - javascript
