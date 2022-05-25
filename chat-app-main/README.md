@@ -1,7 +1,7 @@
 
 # MERN Stack - Chat Application
 
-###Team mates 
+### Team mates 
 - Tanmay Navandar
 - Atharva Tarlekar
 - Harsh Gawli
