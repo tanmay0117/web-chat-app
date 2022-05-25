@@ -73,11 +73,4 @@ Webapp is live [here](http://yml-chat-app.herokuapp.com/)
 - [ ] Add users to group.
 
   
-##### Other (Or Common)
-- [x] Differentiate sent, pending and unset message.
-- [x] Differentiate between active and inactive(offline) users.
-- [ ] Differentiate read and unread messages.
-
-
-  
 ##### Feel free to contibute and open any issues.
