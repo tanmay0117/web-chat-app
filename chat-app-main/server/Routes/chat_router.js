@@ -3,7 +3,7 @@ const { LearnersModel } = require('../Models/users')
 const { ChatsModel } = require('../Models/chats')
 
 const router = express.Router()
-const welcomeMessage = "Welcome to Shine's chat app!"
+const welcomeMessage = "Welcome to web chat app!"
 const mongoError = "Couldn't fetch database!"
 
 const getListOfUsers = async () => {
