@@ -22,7 +22,7 @@ const server = http.Server(app)
 const chatIO = socketIO(server, {
     origins: '*:*',
     path: '/chat-app-socket.io'
-}, ['polling', 'websocket']) // I don't understand this part :(
+}, ['polling', 'websocket'])
 
 /* Express Middleware */
 app.use(bodyParser.json()) // Middleware to parse search params
